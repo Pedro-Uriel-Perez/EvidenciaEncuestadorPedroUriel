@@ -1,4 +1,4 @@
-## Capturas de Evaluaciones de Encustas
+## Capturas de Evidencia de Encuestas
 
 ## Información
 - **Alumno:** Pedro Uriel Pérez Monzón
